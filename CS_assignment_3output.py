@@ -69,22 +69,6 @@ Enter a grade point in(4-10): 9
 Your Grade is A and Excellent performance
 >>> 
 ============== RESTART: C:\Users\Jadu\Desktop\cs-assignment3.py ==============
-Enter a grade point in(4-10): 2
-Error: input out of range!
->>> 
-============== RESTART: C:\Users\Jadu\Desktop\cs-assignment3.py ==============
-Traceback (most recent call last):
-  File "C:\Users\Jadu\Desktop\cs-assignment3.py", line 114, in <module>
-    for row in range(65,76-2*i):
-NameError: name 'i' is not defined
->>> 
-============== RESTART: C:\Users\Jadu\Desktop\cs-assignment3.py ==============
-Traceback (most recent call last):
-  File "C:\Users\Jadu\Desktop\cs-assignment3.py", line 116, in <module>
-    print(" "*i,l," "*i)
-NameError: name 'i' is not defined
->>> 
-============== RESTART: C:\Users\Jadu\Desktop\cs-assignment3.py ==============
  ABCDEFGHIJK 
   ABCDEFGHI  
    ABCDEFG   
