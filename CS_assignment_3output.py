@@ -40,12 +40,6 @@ The next day:-
 ============== RESTART: C:\Users\Jadu\Desktop\cs-assignment3.py ==============
 Enter day in DD format: 30
 Enter month in MM format: 5
-Enter the year in YYYY format: 2017
-Error: wrong input or date out of range
->>> 
-============== RESTART: C:\Users\Jadu\Desktop\cs-assignment3.py ==============
-Enter day in DD format: 30
-Enter month in MM format: 5
 Enter the year in YYYY format: 2014
 31 5 2014
 >>> 
@@ -87,7 +81,7 @@ Enter SID of student: 22
 Enter their name: dhoni
 Do you want to continue(Y/N): N
 NAME 	 SID
-samarth 	 21
+samarth 21
 kohli 	 34
 dhoni 	 22
 
