@@ -81,7 +81,7 @@ Enter SID of student: 22
 Enter their name: dhoni
 Do you want to continue(Y/N): N
 NAME 	 SID
-samarth 21
+samarth  21
 kohli 	 34
 dhoni 	 22
 
