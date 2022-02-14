@@ -29,6 +29,7 @@ else:
                 counter+=1
         print("Occurence of",word,":",counter) 
 
+        
 # Q.2)
 
 day = int(input("Enter day in DD format: "))
@@ -108,6 +109,7 @@ try:
 except:                                     # to show error if number out of range
     print("Error: input out of range!")     
     
+    
 # Q.5)
 for column in range(6):
     l = ''                         # used to store letters in a row
@@ -124,12 +126,14 @@ while (choice == 'Y'):                           # for iterative input till user
     name = input("Enter their name: ")
     student_details[SID] = name                  # for storing and displaying student details
     choice = input("Do you want to continue(Y/N): ")
+
     
 # part a)
 print("NAME",'\t',"SID")                                
 for row in student_details.keys():
     print(student_details[row],'\t',row)
 print() 
+
 
 # part b)
 print("Sorted dictionary on basis of names:-")      
@@ -157,8 +161,6 @@ for k in range(len(valuelist2)):                    # printing after sorting & r
 print(student_details4,'\n')
 
 
- 
-
 # part c)
 print("Sorted dictonary on basis of SIDs:-")
 
@@ -172,6 +174,7 @@ print(student_details5)
 SID_search = int(input("enter the SID for the student to be searched: ")) # to search for a student using SID
 print("Student found!!!")
 print(student_details[SID_search])
+
 
 # Q.7)
 
